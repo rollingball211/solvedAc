@@ -23,4 +23,7 @@ public class Baek2753 {
             System.out.println("0");
         }
     }
+
+    public static class Baek2420 {
+    }
 }
