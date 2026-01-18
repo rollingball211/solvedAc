@@ -17,7 +17,7 @@ r`-_   ,'  ,/
 
  public class Main
  */
-
+package newbie.java;
 public class Baek10172 {
     public static void main(String[] args) {
       /*  System.out.println("|\\_/|\n" +
