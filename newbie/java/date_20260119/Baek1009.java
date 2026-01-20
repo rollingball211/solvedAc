@@ -1,3 +1,5 @@
+package date_20260119;
+
 import java.util.Scanner;
 public class Baek1009 {
     public static void main(String[] args) {
